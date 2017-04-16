@@ -1,0 +1,7 @@
+nbproject
+coverage
+node_modules/
+dist/
+aot
+app/**/*.js
+app/**/*.js.map
